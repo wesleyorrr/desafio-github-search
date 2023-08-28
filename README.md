@@ -23,6 +23,8 @@ App Android simples que armazene um usuário do GitHub (informado em uma tela in
 ## Imagens do Projeto
 
 <h1 align="center">
-   <img src="" height="425" />
+   <img src="https://github.com/wesleyorrr/desafio-github-search/blob/master/img_projeto1.jpg" height="425" />
+     <img src="https://github.com/wesleyorrr/desafio-github-search/blob/master/img_projeto2.jpg" height="425" />
+     <img src="https://github.com/wesleyorrr/desafio-github-search/blob/master/img_projeto.jpg" height="425" />
 </h1>
 
